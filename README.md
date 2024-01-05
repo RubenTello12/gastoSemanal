@@ -1,0 +1,2 @@
+# gastoSemanal
+Proyecto Gasto Semanal
